@@ -18,5 +18,5 @@ variable "bastion_subnet_address" {
 
 variable "source_address_prefix" {
   type    = string
-  default = "40.76.33.207/32"
+  default = "13.90.41.90/32"
 }
